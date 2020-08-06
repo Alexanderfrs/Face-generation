@@ -4,6 +4,3 @@ This repository is my solution to `Project 4` of Udacity's [Deep Learning Nanode
 
 ## Models
 * DCGAN from the [paper](https://arxiv.org/pdf/1511.06434.pdf)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/hash-ir/Generate-Faces/blob/master/LICENSE) file for details
